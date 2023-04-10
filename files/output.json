@@ -1,0 +1,30 @@
+{
+  "id": "statements",
+  "statements": [
+    {
+      "id": "declaration",
+      "variableType": "int",
+      "variable": "_var",
+      "value": {
+        "id": "expression",
+        "left": {
+          "id": "expression",
+          "left": {
+            "id": "value",
+            "value": 5
+          },
+          "right": {
+            "id": "value",
+            "value": 2
+          },
+          "op": "+"
+        },
+        "right": {
+          "id": "value",
+          "value": 8
+        },
+        "op": "*"
+      }
+    }
+  ]
+}
